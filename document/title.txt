@@ -1,0 +1,2 @@
+<h2 style="color: brown; text-decoration: underline;
+	font-size: 80%">Ajax is Good</h2>
